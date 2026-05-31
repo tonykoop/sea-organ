@@ -1,19 +1,21 @@
-# Image Generation Prompt
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+
+# Image-Gen Prompts
 
 Concept image only; not fabrication authority. Do not include cut-ready dimensions, hole locations, or toolpaths.
 
 ## Hero Prompt
 
-Photorealistic 3/4 product-style visualization of a finished sea organ concept as a public shoreline instrument: a clean stone or concrete seawall edge containing discreet organ-like pipe mouths, air duct outlets, drainage channels, and saltwater-resistant metal grilles where tide and wave motion would push air through resonant pipes. Keep the geometry concept-level rather than engineered, with realistic marine materials, weathered but maintained surfaces, scale cues from steps and railings, clean overcast studio-like coastal lighting, high detail, 50mm lens product-photography feel, photorealistic.
+A photorealistic concept render of a sea organ as a finished public-space environmental wind instrument: a low stone-and-concrete shoreline terrace where wave and tide motion pushes air up through a row of tuned pipe chambers hidden inside the seawall, venting through a line of slot-like and round mouth openings cut into the broad upper step so the structure itself sings. The recognizable mechanism is the integration of organ-like pipe voices into the marine structure — air-vent slots and resonator mouths spaced along the terrace edge, with the implied pipe and duct chambers running unseen behind the wall face below the waterline. Materials read as weathered light-grey concrete, salt-bleached pale stone, and corrosion-resistant metal grilles over the air mouths, finishes implied by a coastal environment rather than specified. Realistic human scale comes from the broad stepped terrace sized for people to sit on at the water's edge. Clean neutral overcast-studio lighting, soft directional light, three-quarter product-photography angle, approximately 50mm lens, high detail, photorealistic, no text labels.
 
 ## In-Context Prompt
 
-Photorealistic coastal scene of the sea organ staged along a safe public promenade at the waterline, small waves moving against the structure while pipe openings and drainage paths are visible in the seawall face. Include people listening at a respectful distance, natural morning light, wet stone, stainless grilles, salt-air texture, and environmental storytelling without showing construction drawings or technical labels.
+The sea organ staged at a real shoreline at golden hour: a long stepped stone seawall terrace meeting gentle incoming swells, a few people seated on the wide steps listening, with low mist of spray as a wave surges into the submerged air intakes and a soft tone is implied rising from the vent slots along the terrace edge. Natural coastal light, environmental storytelling of tide and wave as the instrument's air driver, distant horizon and open sea behind, shallow depth of field on the nearest air-mouth openings, concept visualization only.
 
-## Detail / Macro Prompt
+## Detail Prompt
 
-Close-up photorealistic detail of the sea organ's signature concept mechanism: a wave-air capture opening, a protected duct or pipe mouth behind a corrosion-resistant grille, and a clean drainage path with saltwater droplets on concrete and brushed metal. Use shallow depth of field and realistic marine wear, but avoid implying measured pipe sizes or certified seawall engineering.
+Macro close-up of the signature air-mouth detail: a single resonator opening in the upper step of the seawall terrace — a slot or round port backed by a corrosion-resistant metal grille, salt-crusted weathered concrete and pale stone around it, a faint sheen of seawater draining back from the lip, suggesting the hidden pipe chamber breathing below. Raking low-angle light to bring out surface texture, pitting, and salt deposits, high detail, no measurements.
 
 ## Negative / Avoid
 
-No text, no watermarks, no brand logos, no extra limbs, anatomically plausible hands if shown, no impossible wave machinery, no structural blueprints, no dimensions, no toolpaths, no unsafe public access.
+No text/logos/watermarks/fake maker marks, no dimension callouts or tuning numbers, no impossible mechanisms (pipes must vent plausibly through the wall), no exposed unsupported floating structure; anatomically plausible hands if a player or listener is shown.
