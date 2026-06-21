@@ -1,0 +1,38 @@
+{
+  "packet_dir": ".",
+  "title": "Sea Organ — Starter Packet",
+  "instrument": "sea organ",
+  "build_target": "sea organ reference scaffold",
+  "artifact_focus": "woodwind instrument starter packet",
+  "generated": "2026-06-21",
+  "readiness": "starter",
+  "release_status": "private / starter scaffold",
+  "fabrication_authority": {
+    "current_status": "starter scaffold — not for fabrication",
+    "generated_images_allowed_as_authority": false,
+    "wolfram_allowed_as_authority": false
+  },
+  "engineering": {
+    "wolfram": [
+      {
+        "source_file": "woodwind/sea-organ/sea-organ-starter.wl",
+        "cloud_path": "Musical_Instruments/woodwinds/sea-organ/sea-organ-starter.wl",
+        "cloud_url": "https://www.wolframcloud.com/obj/wrfcoin/Musical_Instruments/woodwinds/sea-organ/sea-organ-starter.wl",
+        "permission": "Public-Execute",
+        "kind": "acoustics-starter"
+      },
+      {
+        "source_file": "woodwind/sea-organ/wolfram/sea-organ-wolfram-model.wl",
+        "cloud_path": "Musical_Instruments/woodwinds/sea-organ/sea-organ-wolfram-model.wl",
+        "cloud_url": "https://www.wolframcloud.com/obj/wrfcoin/Musical_Instruments/woodwinds/sea-organ/sea-organ-wolfram-model.wl",
+        "permission": "Public-Execute",
+        "kind": "geometry-model"
+      }
+    ]
+  },
+  "files_included": [
+    "README.md",
+    "design.md",
+    "bom.csv"
+  ]
+}
