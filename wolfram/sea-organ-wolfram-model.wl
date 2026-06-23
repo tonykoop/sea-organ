@@ -115,7 +115,7 @@ seaOrganModelSummary =
    captureAreaEstimate, ductDiameterEstimate, pipeLengthEstimate, pipeRadiusEstimate,
    chamberVolumeEstimate, modeIndexEstimate];
 
-Manipulate[
+seaOrganExplorer = Manipulate[
  Module[{snapshot = seaOrganSnapshot[airTemperatureC, waveHeightM, wavePeriodS,
      captureAreaM2, ductDiameterM, pipeLengthM, pipeRadiusM, chamberVolumeM3,
      modeIndex]},
