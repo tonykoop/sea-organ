@@ -1,0 +1,5 @@
+item_id,subsystem,part,material,rough_dimension,finish_dimension,authority,notes
+SEA-BOM-002,wave_air_capture,capture_chamber_blank,TBD,TBD,TBD,pending_measurement,No capture chamber geometry specified yet; blocked on site-study measurements.
+SEA-BOM-003,air_path,duct_and_manifold_stock,TBD,TBD,TBD,pending_measurement,Duct routing and diameters unmeasured.
+SEA-BOM-004,voice,pipe_or_whistle_blank,TBD,TBD,TBD,pending_measurement,Pipe count/length/bore not specified; see design.md Pending Parameters.
+SEA-BOM-007,validation,airflow_coupon_blank,TBD,TBD,TBD,concept_only,Planned benchtop coupon only; no dimensions exist yet.

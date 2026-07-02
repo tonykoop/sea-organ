@@ -22,6 +22,11 @@ claims remain `concept_only` or `pending_measurement`.
 - `visual-output-register.csv` - V5 authority register for the packet.
 - `cad/mcp-session-log.md` - QMD and no-CAD/no-MCP provenance.
 - `decision-record.md` - Step 0 result, decisions, open questions, and gates.
+- `sourcing.csv`, `cut-list.csv`, `validation.csv`, `risks.md`,
+  `drawing-brief.md` - V5 refresh baseline stubs; all TBD/pending_measurement,
+  no site, pipe, marine, or CAD data yet.
+- `evolution/` - evolution-pipeline Stage 0 intake: no CAD master exists yet,
+  so this records the current concept-only intake only (Gate A not yet run).
 
 ## L1 Boundary
 
