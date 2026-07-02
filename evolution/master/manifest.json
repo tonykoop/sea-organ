@@ -1,0 +1,35 @@
+{
+  "product": "sea-organ",
+  "pipeline": "studiopipeline:evolution-pipeline",
+  "stage": "0-intake",
+  "master_revision": "pre-commit 2026-07-01",
+  "generated": "2026-07-01",
+  "cad_masters": [],
+  "design_sources": [
+    {
+      "path": "design.md",
+      "format": "markdown-design-brief",
+      "sha256": "5b48f47ac3b5bc283874fefc0ec2770b3a3114b9973efcf71ab4854918e38fb7",
+      "authority": "concept_only",
+      "lossy": false,
+      "notes": "L1 concept design brief; no pipe/chamber/CAD geometry specified (see design.md Pending Parameters)."
+    },
+    {
+      "path": "wolfram/sea-organ-wolfram-model.wl",
+      "format": "wolfram-source",
+      "sha256": "9c209391c8650bbda7b0ed372d41c7261df80b8618264ab1a7e2373125d51e97",
+      "authority": "reference_only",
+      "lossy": false,
+      "notes": "Parametric relationship model with estimate placeholders only; source-only."
+    },
+    {
+      "path": "sea-organ-starter.wl",
+      "format": "wolfram-source",
+      "sha256": "b157c481cbda11aa3e070d404e045681e0c569ad5ff89b4881f11f3be7dab418",
+      "authority": "reference_only",
+      "lossy": false,
+      "notes": "Thin Wolfram entry point; source reference only."
+    }
+  ],
+  "notes": "No CAD master exists for this L1 concept packet (cad/sea-organ.scad is planned_missing_artifact per visual-output-register.csv SEA-CAD-PLAN-001, not present). This is an honest no-scad intake: an architectural/environmental instrument whose air-capture geometry is not yet defined. Gate A (Alpha workspace compile) not yet run."
+}

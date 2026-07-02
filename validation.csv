@@ -1,0 +1,7 @@
+target_metric,predicted,measured,units,pass_fail,notes
+site_tide_range,TBD,unmeasured,ft,pending,pending_site_tide_range per design.md; requires site survey before any prediction.
+wave_energy_profile,TBD,unmeasured,TBD,pending,pending_wave_energy_profile per design.md; requires site instrumentation.
+air_capture_flow_rate,TBD,unmeasured,cfm,pending,Concept only; no capture geometry exists to predict from.
+pipe_or_whistle_pitch,TBD,unmeasured,Hz,pending,pending_pipe_scale_or_pitch_policy per design.md; no pipe design exists yet.
+airflow_coupon_qualitative_result,TBD,unmeasured,text,pending,First planned L1->L2 evidence: benchtop airflow coupon per decision-record.md Promotion Gates; qualitative only.
+saltwater_corrosion_observation,TBD,unmeasured,text,pending,pending_saltwater_corrosion_strategy per design.md; no material selected yet.

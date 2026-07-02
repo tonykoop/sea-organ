@@ -1,0 +1,8 @@
+item_id,subsystem,item,supplier,spec_status,cost_usd,lead_time_days,notes
+SEA-BOM-001,marine_site,seawall_or_shoreline_interface,TBD,pending_measurement,TBD,TBD,No structure specified; civil/marine engineering review required before any supplier or spec search.
+SEA-BOM-002,wave_air_capture,wave_or_tide_air_capture_chamber,TBD,pending_measurement,TBD,TBD,Capture geometry not specified; sourcing gated on site-study output.
+SEA-BOM-003,air_path,ducts_manifold_and_drainage,TBD,pending_measurement,TBD,TBD,Duct/drain routing unmeasured; no part numbers to source yet.
+SEA-BOM-004,voice,pipes_or_whistle_resonators,TBD,pending_measurement,TBD,TBD,Pipe count/material/bore/pitch unmeasured.
+SEA-BOM-005,materials,marine_grade_fasteners_and_corrosion_controls,TBD,pending_measurement,TBD,TBD,Saltwater/galvanic compatibility review required before supplier selection.
+SEA-BOM-006,safety,public_access_guards_and_service_access,TBD,pending_measurement,TBD,TBD,Site review required before guard/access hardware sourcing.
+SEA-BOM-007,validation,wave_air_coupon_test_setup,TBD,concept_only,TBD,TBD,Planned test-rig sourcing only; no rig dimensions exist yet.
